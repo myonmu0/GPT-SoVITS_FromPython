@@ -27,8 +27,8 @@ Install GPT-SoVITS, open in a browser, click 1-GPT-SoVITS-TTS -> 1C-Inference ->
 ## Install - This script
 ```
 # Tested on Ubuntu 24.04
-git clone https://github.com/myonmu0/GPT-SoVITS_From_Python
-cd GPT-SoVITS_From_Python/
+git clone https://github.com/myonmu0/GPT-SoVITS_FromPython
+cd GPT-SoVITS_FromPython/
 python3 -m venv venv
 . venv/bin/activate
 pip install --upgrade setuptools wheel
