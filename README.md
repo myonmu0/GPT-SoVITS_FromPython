@@ -1,5 +1,5 @@
 # GPT-SoVITS From Python
-Python automation to transform whole text file to speech. <br />
+Transform whole text file to single/multiple character voice speech.
 
 ## Note
 This is unofficial script and can break when GPT-SoVITS update.
